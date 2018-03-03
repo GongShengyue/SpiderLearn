@@ -22,13 +22,4 @@ num=201651502101
 for i in range(1 , 1000):
     loop(num)
     num=num+1
-
-
-
-
-
-
-
-
-
-
+    
